@@ -9,7 +9,7 @@
 ### **📫 How to reach me:**
 
 [<img align="left" alt="Upwork" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" />][upwork]
-[<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][upwork]
+[<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gmail" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
 <a href="https://join.skype.com/invite/p8rKqVbDoTnD" target="_blank">
   <img alt="skype" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
@@ -58,7 +58,7 @@
 [website]: https://bdtren.github.io
 [cv]: https://www.figma.com/design/dX23qACLXVL9vsWyv2m2nw/CV-(bdtren)
 [twitter]: https://twitter.com/
-[linkedin]: https://www.linkedin.com/in/nguyen-bao-duy-2640681a8/
+[linkedin]: www.linkedin.com/in/bdtren
 [upwork]: https://www.upwork.com/freelancers/~0191c8a3266a083a13
 [gmail]: mailto:bdtren1@gmail.com
 [skype]: https://join.skype.com/invite/p8rKqVbDoTnD
