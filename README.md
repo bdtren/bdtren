@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Im a senior mobile developer with more than 7 years of software development experience.
 - ⚡ You can also check out my CV [Here][cv]
-- 🌱 I’m currently learning cryptocurrency and chatbot.
+- 🌱 I’m currently learning cryptocurrency, chatbot and LLM.
 - 💬 Ask me about anything, I am happy to help!
 
 
