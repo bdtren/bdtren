@@ -14,6 +14,9 @@
 <a href="https://join.skype.com/invite/p8rKqVbDoTnD" target="_blank">
   <img alt="skype" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
 </a>
+<a href="https://teams.live.com/l/invite/FEAyUyoruHL4l2HgAE" target="_blank">
+  <img alt="Microsoft Teams" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/120px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" />
+</a>
 
 
 ### **🔥 Languages and Tools:**
