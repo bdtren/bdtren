@@ -11,13 +11,10 @@
 [<img align="left" alt="Upwork" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" />][upwork]
 [<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gmail" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+[<img align="left" alt="Microsoft Teams" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/120px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" />][microsoftTeams]
 <a href="https://join.skype.com/invite/p8rKqVbDoTnD" target="_blank">
   <img alt="skype" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
 </a>
-<a href="https://teams.live.com/l/invite/FEAyUyoruHL4l2HgAE" target="_blank">
-  <img alt="Microsoft Teams" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/120px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" />
-</a>
-
 
 ### **🔥 Languages and Tools:**
 
@@ -65,3 +62,4 @@
 [upwork]: https://www.upwork.com/freelancers/~0191c8a3266a083a13
 [gmail]: mailto:bdtren1@gmail.com
 [skype]: https://join.skype.com/invite/p8rKqVbDoTnD
+[microsoftTeams]: https://join.skype.com/invite/p8rKqVbDoTnD
