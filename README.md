@@ -58,7 +58,7 @@
 [website]: https://bdtren.github.io
 [cv]: https://www.figma.com/design/dX23qACLXVL9vsWyv2m2nw/CV-(bdtren)
 [twitter]: https://twitter.com/
-[linkedin]: www.linkedin.com/in/bdtren
+[linkedin]: https://www.linkedin.com/in/bdtren
 [upwork]: https://www.upwork.com/freelancers/~0191c8a3266a083a13
 [gmail]: mailto:bdtren1@gmail.com
 [skype]: https://join.skype.com/invite/p8rKqVbDoTnD
