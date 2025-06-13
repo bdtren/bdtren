@@ -10,6 +10,7 @@
 
 [<img align="left" alt="Upwork" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" />][upwork]
 [<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Freelancer" width="26px" src="https://avatars.githubusercontent.com/u/5994982?s=200&v=4" />][freelancer]
 [<img align="left" alt="Gmail" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
 [<img align="left" alt="Microsoft Teams" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/120px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" />][microsoftTeams]
 <a href="https://join.skype.com/invite/p8rKqVbDoTnD" target="_blank">
@@ -63,3 +64,4 @@
 [gmail]: mailto:bdtren1@gmail.com
 [skype]: https://join.skype.com/invite/p8rKqVbDoTnD
 [microsoftTeams]: https://join.skype.com/invite/p8rKqVbDoTnD
+[freelancer]: https://www.freelancer.com/u/bdtren
