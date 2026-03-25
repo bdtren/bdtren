@@ -65,3 +65,4 @@
 [skype]: https://join.skype.com/invite/p8rKqVbDoTnD
 [microsoftTeams]: https://join.skype.com/invite/p8rKqVbDoTnD
 [freelancer]: https://www.freelancer.com/u/bdtren
+
