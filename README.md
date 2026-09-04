@@ -1,7 +1,7 @@
 ### **Hi there 👋**
 
 - 👨🏽‍💻 Im a senior mobile developer with more than 7 years of software development experience, my main focus are: React Native, Flutter, Android Native and iOS Native.
-- ⚡ You can also check out my CV [Here][cv]
+- ⚡ You can also check out [My CV][cv] or [My Portfolio][website]
 - 🌱 I’m currently learning cryptocurrency, chatbot and LLM.
 - 💬 Ask me about anything, I am happy to help!
 
