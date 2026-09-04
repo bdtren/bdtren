@@ -56,7 +56,7 @@
 -->
 
 
-[website]: https://bdtren.github.io
+[website]: https://bdtren.com/portfolio
 [cv]: https://www.figma.com/design/dX23qACLXVL9vsWyv2m2nw/CV-(bdtren)
 [twitter]: https://twitter.com/
 [linkedin]: https://www.linkedin.com/in/bdtren
