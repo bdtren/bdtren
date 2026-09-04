@@ -1,7 +1,7 @@
 ### **Hi there 👋**
 
 - 👨🏽‍💻 Im a senior mobile developer with more than 7 years of software development experience, my main focus are: React Native, Flutter, Android Native and iOS Native.
-- ⚡ You can also check out [My CV][cv] or [My Portfolio][website]
+- ⚡ You can also check out [My CV][cv] or [My Portfolio][website].
 - 🌱 I’m currently learning cryptocurrency, chatbot and LLM.
 - 💬 Ask me about anything, I am happy to help!
 
@@ -40,17 +40,17 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdtren&layout=pie&theme=radical" alt="bdtren GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=bdtren&show_icons=true&locale=en&theme=radical" alt="bdtren GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bdtren&layout=pie&theme=radical" alt="bdtren GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=bdtren&show_icons=true&locale=en&theme=radical" alt="bdtren GitHub Stats" />
 
 <!--
 <details>
   <summary>✨ More informations</summary>
 
   <div style="margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bdtren&show_icons=true&locale=en&layout=pie&theme=radical" alt="bdtren GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bdtren&show_icons=true&locale=en&layout=pie&theme=radical" alt="bdtren GitHub Stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=bdtren&show_icons=true&locale=en&theme=radical" alt="bdtren GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=bdtren&show_icons=true&locale=en&theme=radical" alt="bdtren GitHub Stats" />
   </div>
 </details>
 -->
